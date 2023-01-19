@@ -1,0 +1,7 @@
+{
+  "appName":"mini-vite@vue-ts",
+  "appVersion":"v1.0.0",
+  "appImgUrl":"",
+  "appLinkUrl":"",
+  "appDescription":"参考acro-design-pro的vite-vue-ts脚手架搭建,配置pinia+element-plus+axios"
+}
