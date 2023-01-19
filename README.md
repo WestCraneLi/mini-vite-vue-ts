@@ -256,7 +256,7 @@ readonly VITE_API_BASE_URL: string;
 
 [vite](https://cn.vitejs.dev/)
 
-[router]((https://router.vuejs.org/))
+[router](https://router.vuejs.org/)
 
 [pinia](https://pinia.web3doc.top/)
 
